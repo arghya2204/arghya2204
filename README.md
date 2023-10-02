@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkotnala&label=Profile%20views&color=0e75b6&style=flat" alt="amitkotnala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkotnala&label=Profile%20views&color=0e75b6&style=flat" alt="arghyakhanra" /> </p>
 
 - 🔭 I’m currently working on **Data Cleaning , Data manipulation and visualization**
 
